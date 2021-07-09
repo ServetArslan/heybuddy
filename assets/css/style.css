@@ -3254,3 +3254,11 @@ p.title-desc {
 .sports-list.opened {
     max-height: inherit;
 }
+
+#metinler p{
+    font-size: 15px;
+}
+
+#metinler h2{
+    font-size: 2rem;
+}
